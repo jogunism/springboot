@@ -1,0 +1,29 @@
+# .gitignore
+
+### MACOS ###
+.DS_Store
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### Maven ###
+.mvn/
+mvnw*
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+### VUEJS ###
+package-lock.json
+build/
+static/
+templates/
+src/main/resources/
+package-lock.json
+
+
+~
